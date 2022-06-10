@@ -1,3 +1,3 @@
-package sprihg_introduction;
+package spring_introduction;
 
 public interface Pet { public void say(); }

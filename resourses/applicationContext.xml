@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?> <!--конфигурайионный файл -->
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                           http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+                           http://www.springframework.org/schema/context
+                           http://www.springframework.org/schema/context/spring-context-4.0.xsd">
+<!-- Внедрение property file-->
+    <context:property-placeholder location="classpath:myApp.properties"/>
+
+<!--привязка класса к id-->
+    <bean id="myPet" class="spring_introduction.Cat"/>
+    <bean id="myPerson" class="spring_introduction.Person">
+       <!-- привязка аргумента конструктора -->
+       <!-- <constructor-arg ref="myPet" />-->
+
+       <!-- внедрение параметра через setter -->
+        <property name="pet" ref="myPet"></property>
+
+        <!-- внедрение полей через setter-->
+        <property name="surname" value="${person.surname}" />
+        <property name="age" value="${person.age}"/>
+    </bean>
+</beans>
