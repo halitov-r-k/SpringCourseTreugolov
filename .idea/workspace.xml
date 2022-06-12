@@ -5,23 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6922832f-b377-46e1-85aa-6d651a7c9c8c" name="Changes" comment="2022-06-10T16:45">
-      <change afterPath="$PROJECT_DIR$/resourses/applicationContext2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resourses/applicationContext3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resourses/myApp.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spring_introduction/ConfigWithAnnotation1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spring_introduction/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spring_introduction/Test5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resourses/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resourses/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/applicationContext3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resourses/applicationContext3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/spring_introduction/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spring_introduction/ConfigWithAnnotation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/ConfigWithAnnotation1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/spring_introduction/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/spring_introduction/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spring_introduction/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/Pet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spring_introduction/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spring_introduction/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spring_introduction/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/Test3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,17 +42,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/user/IdeaProjects/SpringCourse/resourses",
-    "spring.configuration.checksum": "c90109e738e31e10cfcd6a913170293f"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/user/IdeaProjects/SpringCourse/resourses&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;5720c2d30583ba24693e8571ea81933f&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/resourses" />
@@ -156,6 +148,9 @@
       <workItem from="1654753316629" duration="9009000" />
       <workItem from="1654774845697" duration="411000" />
       <workItem from="1654837227872" duration="14764000" />
+      <workItem from="1654929174754" duration="616000" />
+      <workItem from="1654933245175" duration="3638000" />
+      <workItem from="1655012043635" duration="1836000" />
     </task>
     <servers />
   </component>

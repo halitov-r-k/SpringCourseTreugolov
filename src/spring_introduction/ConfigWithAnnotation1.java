@@ -10,10 +10,13 @@ public class ConfigWithAnnotation1 {
         //Cat cat = context.getBean("catBean", Cat.class);
 
         //внедрение бина вс дефолтным id
-        Cat cat = context.getBean("cat", Cat.class);
+       // Cat cat = context.getBean("cat", Cat.class);
 
-        cat.say();
+       // cat.say();
 
+        Person person = (Person) context.getBean("personBean", Person.class);
+        person.callYourPet();
+        System.out.printf("Surname %s, age %d", person.getSurname(), person.getAge());
         context.close();
     }
 }
