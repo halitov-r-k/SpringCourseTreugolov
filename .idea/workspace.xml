@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6922832f-b377-46e1-85aa-6d651a7c9c8c" name="Changes" comment="2022-06-12T11:00">
-      <change afterPath="$PROJECT_DIR$/src/spring_introduction/ScopeTest.java" afterDir="false" />
+    <list default="true" id="6922832f-b377-46e1-85aa-6d651a7c9c8c" name="Changes" comment="2022-06-10T16:45">
+      <change afterPath="$PROJECT_DIR$/src/spring_introduction/Config1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resourses/applicationContext3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resourses/applicationContext3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spring_introduction/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spring_introduction/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -30,6 +27,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/spring_introduction/Cat.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/spring_introduction/Dog.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -42,21 +41,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/user/IdeaProjects/javax.annotation-api-1.3.2.jar",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.43103448",
-    "settings.editor.selected.configurable": "Errors",
-    "spring.configuration.checksum": "837caccea0dfdbc96607cdbf98a5024a"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/user/IdeaProjects/javax.annotation-api-1.3.2.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.43103448&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;837caccea0dfdbc96607cdbf98a5024a&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="spring_introduction" />
@@ -183,9 +182,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2022-06-10T16:45" />
     <MESSAGE value="2022-06-12T11:00" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-06-12T11:00" />
+    <MESSAGE value="2022-06-10T16:45" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-06-10T16:45" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
