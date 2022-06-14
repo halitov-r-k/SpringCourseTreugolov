@@ -6,5 +6,4 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 @ComponentScan("spring_introduction") //указание пакета в котором сканировать компоненты
-public class Config1 {
-}
+public class Config1 {}
