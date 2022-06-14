@@ -8,8 +8,11 @@ public class Test6 {
         AnnotationConfigApplicationContext context = new
                 AnnotationConfigApplicationContext(Config1.class);
         //создание бина из класса
-        Person person = context.getBean("personBean", Person.class);
-        person.callYourPet();
+       /* Person person = context.getBean("personBean", Person.class);
+        person.callYourPet();*/
+       Pet cat1 = context.getBean("catBean", Pet.class);
+       Pet cat2 = context.getBean("catBean", Pet.class);
+       //cat.say();
 
 
         context.close();
