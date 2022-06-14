@@ -1,0 +1,140 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"6922832f-b377-46e1-85aa-6d651a7c9c8c\" name=\"Changes\" comment=\"2022-06-12T11:00\">\n      <change afterPath=\"$PROJECT_DIR$/src/spring_introduction/ScopeTest.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/resourses/applicationContext3.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/resourses/applicationContext3.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/spring_introduction/Dog.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/spring_introduction/Dog.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/spring_introduction/Person.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/spring_introduction/Person.java\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Interface\" />\n        <option value=\"Class\" />\n        <option value=\"AnnotationType\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"HighlightingSettingsPerFile\">\n    <setting file=\"file://$PROJECT_DIR$/pom.xml\" root0=\"FORCE_HIGHLIGHTING\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2AKLMTfMcZaPcJIy6okfzixXkPU\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"ASKED_ADD_EXTERNAL_FILES\": \"true\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\n    \"WebServerToolWindowFactoryState\": \"false\",\n    \"last_opened_file_path\": \"/home/user/IdeaProjects/javax.annotation-api-1.3.2.jar\",\n    \"project.structure.last.edited\": \"Libraries\",\n    \"project.structure.proportion\": \"0.0\",\n    \"project.structure.side.proportion\": \"0.43103448\",\n    \"settings.editor.selected.configurable\": \"Errors\",\n    \"spring.configuration.checksum\": \"837caccea0dfdbc96607cdbf98a5024a\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"CreateClassDialog.RecentsKey\">\n      <recent name=\"spring_introduction\" />\n    </key>\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/resourses\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"Application.ScopeTest\">\n    <configuration name=\"ConfigWithAnnotation1\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"spring_introduction.ConfigWithAnnotation1\" />\n      <module name=\"SpringCourse\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"spring_introduction.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"ScopeTest\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"spring_introduction.ScopeTest\" />\n      <module name=\"SpringCourse\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"spring_introduction.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"Test2\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"spring_introduction.Test2\" />\n      <module name=\"SpringCourse\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"spring_introduction.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"Test3\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"spring_introduction.Test3\" />\n      <module name=\"SpringCourse\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"spring_introduction.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"Test4\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"spring_introduction.Test4\" />\n      <module name=\"SpringCourse\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"spring_introduction.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.ScopeTest\" />\n        <item itemvalue=\"Application.ConfigWithAnnotation1\" />\n        <item itemvalue=\"Application.Test4\" />\n        <item itemvalue=\"Application.Test3\" />\n        <item itemvalue=\"Application.Test2\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"6922832f-b377-46e1-85aa-6d651a7c9c8c\" name=\"Changes\" comment=\"\" />\n      <created>1654753298637</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1654753298637</updated>\n      <workItem from=\"1654753316629\" duration=\"9009000\" />\n      <workItem from=\"1654774845697\" duration=\"411000\" />\n      <workItem from=\"1654837227872\" duration=\"14764000\" />\n      <workItem from=\"1654929174754\" duration=\"616000\" />\n      <workItem from=\"1654933245175\" duration=\"3638000\" />\n      <workItem from=\"1655012043635\" duration=\"2270000\" />\n      <workItem from=\"1655096071934\" duration=\"2747000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"2022-06-12T11:00\">\n      <created>1655014129438</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1655014129438</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"2\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\n    <MESSAGE value=\"2022-06-10T16:45\" />\n    <MESSAGE value=\"2022-06-12T11:00\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"2022-06-12T11:00\" />\n  </component>\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\n    <expand />\n    <select />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision b03f5529c2af2ebc5a9433c7a610189ad8a98749)
++++ b/.idea/workspace.xml	(date 1655176537866)
+@@ -4,12 +4,24 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="6922832f-b377-46e1-85aa-6d651a7c9c8c" name="Changes" comment="2022-06-12T11:00">
+-      <change afterPath="$PROJECT_DIR$/src/spring_introduction/ScopeTest.java" afterDir="false" />
++    <list default="true" id="6922832f-b377-46e1-85aa-6d651a7c9c8c" name="Changes" comment="2022-06-10T16:45">
++      <change afterPath="$PROJECT_DIR$/resourses/applicationContext2.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/resourses/applicationContext3.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/resourses/myApp.properties" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/spring_introduction/ConfigWithAnnotation1.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/spring_introduction/Test4.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/spring_introduction/Test5.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/resourses/applicationContext3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resourses/applicationContext3.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/resourses/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resourses/applicationContext.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/spring_introduction/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/Cat.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/src/spring_introduction/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/Dog.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/src/spring_introduction/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/Person.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/spring_introduction/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/Pet.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/spring_introduction/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/Test1.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/spring_introduction/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/Test2.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/spring_introduction/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/Test3.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -21,7 +33,6 @@
+       <list>
+         <option value="Interface" />
+         <option value="Class" />
+-        <option value="AnnotationType" />
+       </list>
+     </option>
+   </component>
+@@ -49,29 +60,22 @@
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+     "WebServerToolWindowFactoryState": "false",
+-    "last_opened_file_path": "/home/user/IdeaProjects/javax.annotation-api-1.3.2.jar",
+-    "project.structure.last.edited": "Libraries",
+-    "project.structure.proportion": "0.0",
+-    "project.structure.side.proportion": "0.43103448",
+-    "settings.editor.selected.configurable": "Errors",
+-    "spring.configuration.checksum": "837caccea0dfdbc96607cdbf98a5024a"
++    "last_opened_file_path": "/home/user/IdeaProjects/SpringCourse/resourses",
++    "spring.configuration.checksum": "c90109e738e31e10cfcd6a913170293f"
+   }
+ }]]></component>
+   <component name="RecentsManager">
+-    <key name="CreateClassDialog.RecentsKey">
+-      <recent name="spring_introduction" />
+-    </key>
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="$PROJECT_DIR$/resourses" />
+     </key>
+   </component>
+-  <component name="RunManager" selected="Application.ScopeTest">
+-    <configuration name="ConfigWithAnnotation1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="spring_introduction.ConfigWithAnnotation1" />
++  <component name="RunManager" selected="Application.ConfigWithAnnotation1">
++    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="ru.halitov.spring.App" />
+       <module name="SpringCourse" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="spring_introduction.*" />
++          <option name="PATTERN" value="ru.halitov.spring.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -79,8 +83,8 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="ScopeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="spring_introduction.ScopeTest" />
++    <configuration name="ConfigWithAnnotation1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="spring_introduction.ConfigWithAnnotation1" />
+       <module name="SpringCourse" />
+       <extension name="coverage">
+         <pattern>
+@@ -133,11 +137,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Application.ScopeTest" />
+         <item itemvalue="Application.ConfigWithAnnotation1" />
+         <item itemvalue="Application.Test4" />
+         <item itemvalue="Application.Test3" />
+         <item itemvalue="Application.Test2" />
++        <item itemvalue="Application.App" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -152,19 +156,7 @@
+       <workItem from="1654753316629" duration="9009000" />
+       <workItem from="1654774845697" duration="411000" />
+       <workItem from="1654837227872" duration="14764000" />
+-      <workItem from="1654929174754" duration="616000" />
+-      <workItem from="1654933245175" duration="3638000" />
+-      <workItem from="1655012043635" duration="2270000" />
+-      <workItem from="1655096071934" duration="2747000" />
+-    </task>
+-    <task id="LOCAL-00001" summary="2022-06-12T11:00">
+-      <created>1655014129438</created>
+-      <option name="number" value="00001" />
+-      <option name="presentableId" value="LOCAL-00001" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1655014129438</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -184,11 +176,6 @@
+   <component name="VcsManagerConfiguration">
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+     <MESSAGE value="2022-06-10T16:45" />
+-    <MESSAGE value="2022-06-12T11:00" />
+-    <option name="LAST_COMMIT_MESSAGE" value="2022-06-12T11:00" />
+-  </component>
+-  <component name="XSLT-Support.FileAssociations.UIState">
+-    <expand />
+-    <select />
++    <option name="LAST_COMMIT_MESSAGE" value="2022-06-10T16:45" />
+   </component>
+ </project>
+\ No newline at end of file
