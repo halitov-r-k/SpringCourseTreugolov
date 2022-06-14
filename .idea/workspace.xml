@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6922832f-b377-46e1-85aa-6d651a7c9c8c" name="Changes" comment="2022-06-14T15:15">
+    <list default="true" id="6922832f-b377-46e1-85aa-6d651a7c9c8c" name="Changes" comment="2022-06-14T16:40">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spring_introduction/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/Cat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/spring_introduction/Config1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/Config1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spring_introduction/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/spring_introduction/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/Test6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -158,7 +156,7 @@
       <workItem from="1654933245175" duration="3638000" />
       <workItem from="1655012043635" duration="2270000" />
       <workItem from="1655096071934" duration="2747000" />
-      <workItem from="1655195292936" duration="5291000" />
+      <workItem from="1655195292936" duration="6221000" />
     </task>
     <task id="LOCAL-00001" summary="2022-06-12T11:00">
       <created>1655014129438</created>
@@ -188,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655201744380</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2022-06-14T16:40">
+      <created>1655206868560</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655206868560</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,7 +217,8 @@
     <MESSAGE value="2022-06-14T08:30 add @Configuration" />
     <MESSAGE value="2022-06-14T08:40 add context" />
     <MESSAGE value="2022-06-14T15:15" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-06-14T15:15" />
+    <MESSAGE value="2022-06-14T16:40" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-06-14T16:40" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -12,7 +12,7 @@ public class Test6 {
         person.callYourPet();*/
        Pet cat1 = context.getBean("catBean", Pet.class);
        Pet cat2 = context.getBean("catBean", Pet.class);
-       //cat.say();
+       cat1.say();
 
 
         context.close();

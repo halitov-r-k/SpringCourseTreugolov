@@ -14,5 +14,9 @@ public class Config1 {
     @Scope("singleton")
     public Pet catBean() { return new Cat(); }
 
+    //создание Бина person с внедрением зависимости cat
+    @Bean
+    public Person personBean() {return  new Person(catBean()); }
+
 
 }
