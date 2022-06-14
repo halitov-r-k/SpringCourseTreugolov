@@ -9,7 +9,7 @@
     <!-- указание области сканирования пакетов на наличие аннотаций @Component-->
     <context:component-scan base-package = "spring_introduction" />
     <!-- подключение файла со свойствами -->
-    <context:property-placeholder location="classpath:myApp.properties"/>
+    <!--  <context:property-placeholder location="classpath:myApp.properties"/> -->
 
 
 </beans>

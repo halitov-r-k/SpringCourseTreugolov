@@ -9,11 +9,11 @@ import org.springframework.stereotype.Component;
 public class Person {
 
     //@Value("Halitov")//установление зачения поля
-    @Value("${person.surname}")//установление зачения поля из файла myApp.properties
+  //  @Value("${person.surname}")//установление зачения поля из файла myApp.properties
     private String surname;
 
     //@Value("51")//установление зачения поля
-    @Value("${person.age}") //установление зачения поля из файла myApp.properties
+//    @Value("${person.age}") //установление зачения поля из файла myApp.properties
     private int age;
 
     public String getSurname() {

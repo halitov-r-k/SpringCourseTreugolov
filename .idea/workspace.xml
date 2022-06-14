@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6922832f-b377-46e1-85aa-6d651a7c9c8c" name="Changes" comment="2022-06-10T16:45">
+    <list default="true" id="6922832f-b377-46e1-85aa-6d651a7c9c8c" name="Changes" comment="2022-06-12T11:00">
+      <change afterPath="$PROJECT_DIR$/src/spring_introduction/ScopeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resourses/applicationContext3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resourses/applicationContext3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spring_introduction/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spring_introduction/ConfigWithAnnotation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/ConfigWithAnnotation1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/spring_introduction/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/spring_introduction/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_introduction/Person.java" afterDir="false" />
     </list>
@@ -22,6 +21,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -42,32 +42,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/user/IdeaProjects/SpringCourse/resourses&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;5720c2d30583ba24693e8571ea81933f&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/user/IdeaProjects/javax.annotation-api-1.3.2.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.43103448",
+    "settings.editor.selected.configurable": "Errors",
+    "spring.configuration.checksum": "837caccea0dfdbc96607cdbf98a5024a"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="spring_introduction" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/resourses" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConfigWithAnnotation1">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.halitov.spring.App" />
+  <component name="RunManager" selected="Application.ScopeTest">
+    <configuration name="ConfigWithAnnotation1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spring_introduction.ConfigWithAnnotation1" />
       <module name="SpringCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.halitov.spring.*" />
+          <option name="PATTERN" value="spring_introduction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConfigWithAnnotation1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="spring_introduction.ConfigWithAnnotation1" />
+    <configuration name="ScopeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spring_introduction.ScopeTest" />
       <module name="SpringCourse" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScopeTest" />
         <item itemvalue="Application.ConfigWithAnnotation1" />
         <item itemvalue="Application.Test4" />
         <item itemvalue="Application.Test3" />
         <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -150,8 +154,17 @@
       <workItem from="1654837227872" duration="14764000" />
       <workItem from="1654929174754" duration="616000" />
       <workItem from="1654933245175" duration="3638000" />
-      <workItem from="1655012043635" duration="1836000" />
+      <workItem from="1655012043635" duration="2270000" />
+      <workItem from="1655096071934" duration="2747000" />
     </task>
+    <task id="LOCAL-00001" summary="2022-06-12T11:00">
+      <created>1655014129438</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655014129438</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +184,11 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="2022-06-10T16:45" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-06-10T16:45" />
+    <MESSAGE value="2022-06-12T11:00" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-06-12T11:00" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
