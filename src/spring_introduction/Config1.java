@@ -1,13 +1,11 @@
 //конфигурация проекта Java-code
 package spring_introduction;
 
-import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.ComponentScan;
-import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.Scope;
+import org.springframework.context.annotation.*;
 
 @Configuration
-@ComponentScan("spring_introduction") //указание пакета в котором сканировать компоненты
+@PropertySource("classpath:myApp.properties")//указание файла со свойствами
+//@ComponentScan("spring_introduction") //указание пакета в котором сканировать компоненты
 public class Config1 {
     //создание бина cat
     @Bean
